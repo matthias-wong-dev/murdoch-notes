@@ -1,0 +1,11 @@
+[data-theme="dark"] {
+  --color-bg: #f7f5ef !important;
+  --color-text: #1a1a1a !important;
+}
+
+[data-theme="dark"] body,
+[data-theme="dark"] main,
+[data-theme="dark"] article {
+  background: #f7f5ef !important;
+  color: #1a1a1a !important;
+}
