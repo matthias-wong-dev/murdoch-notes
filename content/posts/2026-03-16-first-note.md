@@ -7,7 +7,7 @@ cover: "/images/pain.png"
 math: false
 draft: false
 tags:
-    - organisations
+    - "#organisations"
 ---
 
 Murdoch Notes is coming soon.
