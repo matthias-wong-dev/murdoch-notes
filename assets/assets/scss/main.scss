@@ -7,7 +7,6 @@
 @import 'pages/article';
 @import 'pages/home';
 @import 'pages/search';
-@import 'custom';
 
 html {
     text-rendering: geometricPrecision;
@@ -142,9 +141,9 @@ blockquote {
 .hero,
 .cover {
     width: 100%;
-    height: 222px;
+    height: auto;
     border-radius: 5px;
-    box-shadow: 0 0 5px var(--color-shadow);
+    overflow: hidden;
 
     @media (max-width:720px) {
         height: 182px;
@@ -214,4 +213,8 @@ div.code-wrapper {
     .copied::after {
         margin-left: 8px;
     }
+}
+
+.section-title::before {
+    content: "" !important;
 }
