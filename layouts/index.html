@@ -3,8 +3,7 @@
 <section class="hero" id="hero">
 
     {{ $hero := resources.GetMatch "/assets/imgs/hero.*" }}
-    {{ $heroResize := $hero.Resize "800x webp"}}
-    <img src="{{ $heroResize.RelPermalink }}" alt="Hero Image" class="hero-image" loading="lazy">
+    <img src="{{ $hero.RelPermalink }}" alt="Hero Image" class="hero-image" loading="lazy">
 
 </section>
 
