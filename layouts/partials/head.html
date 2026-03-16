@@ -20,11 +20,11 @@
 <meta property="og:description" content="{{ or $description .Site.Params.meta.description }}">
 <meta property="og:url" content="{{ .Permalink  }}">
 {{ if .IsHome }}
-<meta property="og:image" content="{{ or .Params.Cover site.Params.defaultCover | absURL }}">
-<meta name="twitter:image" content="{{ or .Params.Cover site.Params.defaultCover | absURL }}">
+<meta property="og:image" content="{{ site.Params.defaultCover | absURL }}">
+<meta name="twitter:image" content="{{ site.Params.defaultCover | absURL }}">
 {{ else }}
-<meta property="og:image" content="{{ or .Params.Cover site.Params.defaultCover }}">
-<meta name="twitter:image" content="{{ or .Params.Cover site.Params.defaultCover }}">
+<meta property="og:image" content="{{ site.Params.defaultCover | absURL }}">
+<meta name="twitter:image" content="{{ site.Params.defaultCover | absURL }}">
 {{ end }}
 <meta name="twitter:card" content="summary_large_image">
 
