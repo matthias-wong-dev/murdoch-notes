@@ -5,9 +5,9 @@ theme: "vortisil"
 copyright: "Matthias Wong"
 hasCJKLanguage: true
 enableEmoji: true
-disableKinds:
-  - taxonomy
-  - term
+
+taxonomies:
+  tag: "tags"
 
 pagination:
   pagerSize: 9
