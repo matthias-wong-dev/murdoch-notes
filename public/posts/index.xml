@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Murdoch Notes</title>
+    <link>http://localhost:1313/murdoch-notes/posts/</link>
+    <description>Recent content in Posts on Murdoch Notes</description>
+    <generator>Hugo</generator>
+    <language>en-au</language>
+    <copyright>Matthias Wong</copyright>
+    <lastBuildDate>Mon, 16 Mar 2026 10:30:00 +1100</lastBuildDate>
+    <atom:link href="http://localhost:1313/murdoch-notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Note</title>
+      <link>http://localhost:1313/murdoch-notes/posts/2026-03-16-first-note/</link>
+      <pubDate>Mon, 16 Mar 2026 10:30:00 +1100</pubDate>
+      <guid>http://localhost:1313/murdoch-notes/posts/2026-03-16-first-note/</guid>
+      <description>&lt;p&gt;Murdoch Notes is live.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

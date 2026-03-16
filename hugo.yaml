@@ -1,0 +1,52 @@
+baseURL: "https://matthias-wong-dev.github.io/murdoch-notes/"
+languageCode: "en-au"
+title: "Murdoch Notes"
+theme: "vortisil"
+copyright: "Matthias Wong"
+hasCJKLanguage: true
+enableEmoji: true
+disableKinds:
+  - taxonomy
+  - term
+
+pagination:
+  pagerSize: 9
+
+params:
+  author: "Matthias Wong"
+  logoImg: false
+  logoInvert: false
+  math: false
+  comments:
+    enabled: false
+  meta:
+    description: "Notes on data, organisations, AI, and related questions."
+
+menus:
+  main:
+    - identifier: "home"
+      url: "/"
+      weight: 1
+    - identifier: "about"
+      url: "/about"
+      weight: 2
+    - identifier: "archives"
+      url: "/posts"
+      weight: 3
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.116.0"
+
+markup:
+  highlight:
+    style: "evergarden"
+    tabWidth: 4
+    codeFences: true
+    guessSyntax: true
+
+outputs:
+  home:
+    - HTML
+    - JSON
