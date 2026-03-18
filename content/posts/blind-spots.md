@@ -41,6 +41,8 @@ An organisation often does see, in fragments, across many people, dashboards, es
 
 So organisations do have blind spots. But their blindness is not a simple absence of awareness. It is a structural condition in which signals of failure do not correct because _they could not be understood_.
 
+This means that a blind spot is more than a mere *weakness*. A weakness is when a problem is understood but the organisation is unable to execute a solution. A blind spot is when the problem itself cannot be understood—adding more data or capability does not help. The organisation "sees" but does not "see".
+
 A precise definition would be:
 
 _An organisational blind spot exists when persistent signals of failure are structurally absorbed in ways that prevent them from becoming decisive corrective action._
