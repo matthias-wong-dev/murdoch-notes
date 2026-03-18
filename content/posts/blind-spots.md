@@ -1,5 +1,5 @@
 ---
-title: Can Organisations Have Blind Spots?
+title: Can organisations have blind spots?
 date: 2026-03-16T10:30:00+11:00
 lastmodified: ""
 author: Matthias Wong
@@ -9,7 +9,6 @@ draft: false
 tags:
   - "#organisations"
 ---
-## Can Organisations Have Blind Spots?
 
 What does it look like for an organisation to have a blind spot? How is it different from a person having one? How would we know we have one?
 
