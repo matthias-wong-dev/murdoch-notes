@@ -21,7 +21,7 @@ params:
   comments:
     enabled: false
   meta:
-    description: "Notes on organisations, data, AI, and related questions."
+    description: "Field observations on organisations, data, AI, and related questions."
 
 menus:
   main:
