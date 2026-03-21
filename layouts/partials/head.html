@@ -12,7 +12,11 @@
 
 <link rel="canonical" href="{{ .Permalink  }}">
 
+{{ if eq .Kind "page" }}
+<meta property="og:type" content="article">
+{{ else }}
 <meta property="og:type" content="website">
+{{ end }}
 
 <meta property="og:locale" content="{{ site.Language.LanguageCode }}">
 <meta property="og:title" content='{{ partial "title" . }}'>
@@ -34,6 +38,9 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/imgs/apple-touch-icon.png">
 
 
+
+<!-- SEO -->
+{{ if .IsHome }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -54,6 +61,29 @@
   }
 }
 </script>
+{{ else if eq .Kind "page" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{ .Title }}",
+  "url": "{{ .Permalink }}",
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "author": {
+    "@type": "Person",
+    "name": "Matthias Wong",
+    "url": "https://matthiaswong.me",
+    "sameAs": [
+      "https://matthiaswong.me",
+      "https://www.linkedin.com/in/dr-matthias-wong-9195263a9",
+      "https://www.instagram.com/matthias.light",
+      "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=10008096",
+      "https://thisfairyland.land"
+    ]
+  }
+}
+</script>
+{{ end }}
 
 
 
