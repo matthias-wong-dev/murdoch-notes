@@ -11,7 +11,7 @@ tags:
   - "#organisations"
 ---
 
-All of us have had the experience of calling a line and hearing an automated voice say "For X, press 1; For Y, press 2; For Z, press 3..." The system works until you have a situation that does not fit neatly in any of the categories. The result is often being sent in circles. This is the phone menu problem.
+All of us have had the experience of calling a line and hearing an automated voice say "For X, press 1; For Y, press 2; For Z, press 3..." The system works until you have a situation that does not fit neatly in any of the categories. The result is often being sent in circles. This is the *phone menu problem*.
 
 On the surface, the problem is only mildly frustrating. But closer examination reveals a more fundamental issue of how organisations operate.
 
