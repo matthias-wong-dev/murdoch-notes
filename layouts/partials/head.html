@@ -23,9 +23,9 @@
 <meta property="og:site_name" content="{{ site.Title }}">
 <meta property="og:description" content="{{ or $description .Site.Params.meta.description }}">
 <meta property="og:url" content="{{ .Permalink  }}">
-{{ if .IsHome }}
-<meta property="og:image" content="{{ site.Params.defaultCover | absURL }}">
-<meta name="twitter:image" content="{{ site.Params.defaultCover | absURL }}">
+{{ if .Params.cover }}
+<meta property="og:image" content="{{ .Params.cover | absURL }}">
+<meta name="twitter:image" content="{{ .Params.cover | absURL }}">
 {{ else }}
 <meta property="og:image" content="{{ site.Params.defaultCover | absURL }}">
 <meta name="twitter:image" content="{{ site.Params.defaultCover | absURL }}">
