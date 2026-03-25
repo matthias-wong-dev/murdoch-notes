@@ -39,7 +39,7 @@ And in part, this was reflected in the Grenfell Tower Inquiry, Phase 2 final rep
 
 > ”That the government draw together under a single regulator all the functions relating to the construction industry to which we have referred…”
 
-That is, a more independent and consolidated oversight structure to address the fragmentation that contributed to the disaster. This recommendation was accepted by the UK Government, which moved the Building Safety Regulator to independent status (Jan 2026), published a detailed prospectus, and run [a consultation](https://www.gov.uk/government/consultations/single-construction-regulator-prospectus/single-construction-regulator-prospectus-consultation-document) which closed 20 March 2026. 
+That is, an independent and consolidated oversight structure to address the fragmentation that contributed to the disaster. This [recommendation was accepted by the UK Government](https://www.gov.uk/government/consultations/single-construction-regulator-prospectus/single-construction-regulator-prospectus-consultation-document), which moved the Building Safety Regulator to independent status on January 2026, published a detailed prospectus, and run a consultation which closed 20 March 2026. 
 
 But this cannot be the solution for every organisation. In the worst case, it becomes another structure of illegibility.
 
