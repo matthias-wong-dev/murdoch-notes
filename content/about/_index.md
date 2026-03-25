@@ -10,4 +10,4 @@ These notes look at an organisation's _perception of reality_. From this perspec
 
 If you are here for the first time, you can start with [Can organisations have blind spots?]({{< relref "blind-spots.md" >}})
 
-Murdoch Notes are part of a broader research program conducted by [Matthias Wong](https://matthiaswong.me) on the philosophy of agency, attention, and absence.
+Murdoch Notes are named after Iris Murdoch. They are part of a broader research program conducted by [Matthias Wong](https://matthiaswong.me) on the philosophy of agency, attention, and absence.
