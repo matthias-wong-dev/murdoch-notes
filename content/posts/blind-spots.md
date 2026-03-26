@@ -3,7 +3,7 @@ title: Can organisations have blind spots?
 date: 2026-03-16T10:30:00+11:00
 lastmodified: ""
 author: Matthias Wong
-cover: /assets/imgs/pain.png
+cover: /assets/imgs/blind-spots.png
 description: Organisational blind spots
 math: false
 draft: false

@@ -3,7 +3,7 @@ title: The need for safety
 date: 2026-03-26T10:30:00+11:00
 lastmodified: ""
 author: Matthias Wong
-cover: /assets/imgs/phone.png
+cover: /assets/imgs/need-for-safety.png
 description: "How the need for safety blocks out reality"
 math: false
 draft: false
