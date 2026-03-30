@@ -41,18 +41,29 @@ In this vein, an often under-appreciated ability of data is not its ability to t
 
 More than once, I have seen leadership groups fall into a false assumption. Reality is complex, and when things are complex, simple narratives are attractive—they describe the symptoms, seem coherent, and are not obviously wrong. But they are mismatched with reality.
 
-In those situations, the work is not to produce new insight, but to reconstruct what is already there—to pinpoint the source of confusion and present a view of the data that dissolves the assumption and reveals a different cause.
+In those situations, the work is not to produce new insight, but to render legible what is already there—to pinpoint the source of confusion, present a view of the data that dissolves the assumption and open the possibility to a different cause.
 
-There is no glamour in eliminating a false narrative, but it is exactly the capability necessary in an organisation dealing with high-stakes situations: and this is what unglamorous data—data that is silently operative and faithfully representing the business—provides.
+There is no glamour in eliminating a false narrative, but it is exactly the capability necessary in an organisation dealing with high-stakes situations: and this is what unglamorous data provides.
 
-Unglamorous data is also where many organisations go astray. Organisations often invest significantly in data capability, yet find the value slow to materialise.
+Unglamorous data is also where many organisations go astray. Organisations invest significantly in data capability, yet find the value slow to materialise.
 
 This is often because the data is being asked to be *insightful*, and appears to fall short. But the work is first to make the data *faithful*, and then *operable*.
 
 > Data does not need to be impressive for it to be important.
 
-Leaders, particularly those with a strong vision, will naturally be drawn to glamorous data. It is part of how organisations move forward. In my experience, they are often the same people who recognise the value in data when it is not.
+Leaders, particularly those with a strong vision, will naturally be drawn to glamorous data. It is part of how organisations move forward. And in my experience, they are often the same people who recognise the value in data when it is not. They key is to recognise both as legitimate.
 
 Glamorous data is important. Unglamorous data—ordinary data that is meaningfully operative—is equally so.
 
-Data is the eyes and ears of modern organisations. At scale, it is the means by which [reality remains visible]({{< relref "blind-spots.md" >}}).
+Data is the eyes and ears of modern organisations. At scale, it is the only means by which reality remains visible.
+
+
+---
+
+This is a part of a mini series:
+- [Can organisations have blind spots?]({{< relref "blind-spots.md" >}})
+- [The phone menu problem]({{< relref "phone-menu.md" >}})
+- [The need for safety]({{< relref "need-for-safety.md" >}})
+- *Unglamorous data*
+
+---
