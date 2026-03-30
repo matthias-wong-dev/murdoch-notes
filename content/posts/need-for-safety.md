@@ -38,7 +38,7 @@ The Grenfell inquiry showed that the root cause was the failure of a fragmented 
 
 This is the need for safety working at maximum strength.
 
-In these instances, the need for safety created [blind spots]({{< relref "blind-spots.md" >}}): responsibility is so diffused that signals of error cannot be coherently interpreted.
+In these instances, the need for safety created blind spots: responsibility is so diffused that signals of error cannot be coherently interpreted.
 
 Does that mean that the need for safety is always harmful? No.
 
@@ -59,3 +59,13 @@ In decisions like these, an underlying question is always:
 and 
 
 *"Is it possible to do both?"*
+
+---
+
+This is a part of a mini series:
+- [Can organisations have blind spots?]({{< relref "blind-spots.md" >}})
+- [The phone menu problem]({{< relref "phone-menu.md" >}})
+- *The need for safety*
+- *Unglamorous data*
+
+---

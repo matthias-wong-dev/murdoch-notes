@@ -44,3 +44,13 @@ That is, an independent and consolidated oversight structure to address the frag
 But this cannot be the solution for every organisation. In the worst case, it becomes another structure of illegibility.
 
 Instead, organisations need to accept that all structures create blind spots, and need to develop a scepticism toward their own structures—*any structure*. Organisations need to normalise teams and individuals whose value lies in their independence of perception. Without them, the organisation will tend to reinforce what its structure allows it to see, and, as in the case of the Grenfell fire, remain latent until it becomes a disaster.
+
+---
+
+This is a part of a mini series:
+- [Can organisations have blind spots?]({{< relref "blind-spots.md" >}})
+- *The phone menu problem*
+- [The need for safety]({{< relref "need-for-safety.md" >}})
+- *Unglamorous data*
+
+---
