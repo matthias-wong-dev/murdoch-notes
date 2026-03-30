@@ -47,7 +47,7 @@ Instead, organisations need to accept that all structures create blind spots, an
 
 ---
 
-This is a part of a mini series:
+This is a part of a series:
 - [Can organisations have blind spots?]({{< relref "blind-spots.md" >}})
 - *The phone menu problem*
 - [The need for safety]({{< relref "need-for-safety.md" >}})

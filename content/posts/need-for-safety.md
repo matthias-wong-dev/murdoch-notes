@@ -62,7 +62,7 @@ and
 
 ---
 
-This is a part of a mini series:
+This is a part of a series:
 - [Can organisations have blind spots?]({{< relref "blind-spots.md" >}})
 - [The phone menu problem]({{< relref "phone-menu.md" >}})
 - *The need for safety*
