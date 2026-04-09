@@ -25,7 +25,7 @@ From this perspective, glamorous data is the ability to *see interesting things*
 
 I call this unglamorous because, like ordinary eyesight, it is only noticed when it is failing—no one pays attention to their eyes unless something is wrong. In the same way, when unglamorous data is missing, staff complain about disjointed processes, duplication of effort, and siloed information. But when it is operative, people are no longer talking about the data—they are too busy getting the work done.
 
-At the most fundamental level, this appears in small, unremarkable ways within workflows: the finance team receiving notice when invoices are due, the operations team knowing how many cases are booked that day, teams staying in sync about emerging incidents.
+At the most fundamental level, this appears in small, unremarkable ways within workflows: the finance team receiving notice when invoices are due, the operations team knowing how many cases are booked that day, medical teams in a hospital staying in sync about a patient condition.
 
 One level higher, the organisation begins to see its business represented in forms it recognises, and can actively interrogate them. This interrogation is a slower form of seeing—like looking across different parts of a picture. What is seen may not be insightful, but it is a faithful reflection of what is happening.
 
