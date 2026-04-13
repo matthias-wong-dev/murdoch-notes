@@ -66,6 +66,6 @@ This is a part of a series:
 - [Can organisations have blind spots?]({{< relref "blind-spots.md" >}})
 - [The phone menu problem]({{< relref "phone-menu.md" >}})
 - *The need for safety*
-- *Unglamorous data*
+- [Unglamorous data]({{< relref "unglamorous-data.md" >}})
 
 ---
