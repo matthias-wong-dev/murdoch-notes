@@ -10,7 +10,7 @@
 
 <div class="article-tag">
   {{ if eq .Section "posts" }}
-  <span class="article-author">{{ index $.Site.Data.l10n "by" }}&nbsp;{{ or .Params.author .Site.Params.author }}</span>
+  <!-- <span class="article-author">{{ index $.Site.Data.l10n "by" }}&nbsp;{{ or .Params.author .Site.Params.author }}</span> -->
   {{ $datePostMachine := .Date | time.Format "2006-01-02T15:04:05" }}
   {{ $datePostHuman := .Date | time.Format "2006-01-02" }}
   <time datetime="{{ $datePostMachine }}">{{ index $.Site.Data.l10n "posted_on" }} {{ $datePostHuman }}</time>
@@ -32,6 +32,12 @@
 {{ end }}
 
 {{ .Content }}
+
+<hr>
+
+<p class="author-footer">
+  <em>By <a href="https://matthiaswong.me">Matthias Wong</a></em>
+</p>
 
 {{ if eq .Section "posts" }}
 <br>

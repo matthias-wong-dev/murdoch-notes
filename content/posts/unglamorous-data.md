@@ -72,5 +72,3 @@ This is a part of a series:
 - [The phone menu problem]({{< relref "phone-menu.md" >}})
 - [The need for safety]({{< relref "need-for-safety.md" >}})
 - *Unglamorous data*
-
----

@@ -67,5 +67,3 @@ This is a part of a series:
 - [The phone menu problem]({{< relref "phone-menu.md" >}})
 - *The need for safety*
 - [Unglamorous data]({{< relref "unglamorous-data.md" >}})
-
----
