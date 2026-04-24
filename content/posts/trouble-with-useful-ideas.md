@@ -1,9 +1,9 @@
 ---
 title: The trouble with useful ideas
-date: 2026-04-29T10:30:00+11:00
+date: 2026-04-24T10:30:00+11:00
 lastmodified: ""
 author: Matthias Wong
-cover: /assets/imgs/unglamorous-data.png
+cover: /assets/imgs/trouble-with-useful-ideas.png
 description: "Why management frameworks like Agile, Scrum, and OKRs stop working: how useful ideas become rigid, bureaucratic, and disconnected from reality."
 math: false
 draft: false
@@ -54,4 +54,4 @@ The risk is that strong ideas or candidates are missed because they do not fit, 
 
 Thus, the problem is not the framework itself, but this:
 
-> The tool we used to see becomes the criterion for seeing.
+> The tool we used to see has become the criterion for seeing.
